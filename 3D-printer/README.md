@@ -14,7 +14,7 @@ Below you can find an image of the partial product in printing phase.
 
 ![product_printing](spotify_key_printing.jpg)
 &nbsp;
-Afetr printing:
+After printing:
 &nbsp;
 
 ![product_printed](spotify_key_printed.jpg)
